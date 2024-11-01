@@ -1,0 +1,21 @@
+{
+  "name": "WP-Photodex",
+  "version": "1.0.0",
+  "description": "A WordPress Plugin to display photos of pokemon shot in the wild from Pokemon Go",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Anthony Skelton",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://anthonyskelton.com/wp-photodex",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "app-root-path": "^1.0.0"
+  },
+  "gulpConfig": "./config/gulp/config.js"
+}

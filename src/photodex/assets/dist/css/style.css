@@ -1,0 +1,23 @@
+.photodex--container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.photodex-entry {
+    margin: 5px;
+    line-height: 150px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background-color: #c9c9ff;
+    border-radius: 10%;
+    width: 150px;
+    height: 150px;
+    color: #f0f0f0;
+    font-size: 36px;
+}
+
+.photodex-single img {
+    border-radius: 10%;
+}
